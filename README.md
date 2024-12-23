@@ -7,6 +7,6 @@ Includes the word document for the questions and excel sheet with the tables for
 
 # References
 
-1. EnglishForEveryone. Reading comprehension worksheets. Published by EnglishForEveryone. Available in: https://englishforeveryone.org/viewpdf.html?pdf=/PDFs/6_The_Rio_Grande_Free_Sample.pdf&title=Grade%206.
+1. EnglishForEveryone. Reading comprehension worksheets. Published by EnglishForEveryone. Available in: https://englishforeveryone.org/Topics/Reading-Comprehension.html
 
    
